@@ -1,0 +1,232 @@
+\babel@toc {english}{}
+\contentsline {part}{\@mypartnumtocformat {I}{风}}{1}{part.1}% 
+\ttl@starttoc {default@1}
+\contentsline {chapter}{\numberline {1}2019年}{3}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}10月}{3}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Spring请求中Controller的定位过程}{3}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Wireshark Filter}{3}{subsection.1.1.2}% 
+\contentsline {section}{\numberline {1.2}血液检测项目}{3}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}项目基本信息1}{3}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}使用小程序UI组件库}{4}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.3}youtube-dl使用}{4}{subsection.1.2.3}% 
+\contentsline {section}{\numberline {1.3}09月}{5}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}MyBatis分页插件}{5}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}Java 8集合使用}{5}{subsection.1.3.2}% 
+\contentsline {subsection}{\numberline {1.3.3}yarn使用心得}{6}{subsection.1.3.3}% 
+\contentsline {subsection}{\numberline {1.3.4}Jenkins部署前端应用}{6}{subsection.1.3.4}% 
+\contentsline {subsection}{\numberline {1.3.5}搭建私有Docker镜像仓库}{7}{subsection.1.3.5}% 
+\contentsline {subsection}{\numberline {1.3.6}Maven编译JavaFX}{7}{subsection.1.3.6}% 
+\contentsline {paragraph}{AWT}{8}{section*.2}% 
+\contentsline {paragraph}{Swing}{8}{section*.3}% 
+\contentsline {paragraph}{SWT}{8}{section*.4}% 
+\contentsline {subsection}{\numberline {1.3.7}'overlay2' is not supported over nfs}{9}{subsection.1.3.7}% 
+\contentsline {subsection}{\numberline {1.3.8}Docker日志}{10}{subsection.1.3.8}% 
+\contentsline {subsection}{\numberline {1.3.9}MyBatis启动超时问题}{11}{subsection.1.3.9}% 
+\contentsline {subsection}{\numberline {1.3.10}Docker Overlay占满问题处理}{11}{subsection.1.3.10}% 
+\contentsline {subsection}{\numberline {1.3.11}删除ElasticSearch数据}{12}{subsection.1.3.11}% 
+\contentsline {subsection}{\numberline {1.3.12}MyBatis IOException}{14}{subsection.1.3.12}% 
+\contentsline {subsection}{\numberline {1.3.13}ElasticSearch OutOfMemoryError: Java heap space}{14}{subsection.1.3.13}% 
+\contentsline {subsection}{\numberline {1.3.14}磁盘占用分析(Disk Usage Analysis)}{15}{subsection.1.3.14}% 
+\contentsline {subsection}{\numberline {1.3.15}开发工具}{15}{subsection.1.3.15}% 
+\contentsline {subsection}{\numberline {1.3.16}No route to host}{16}{subsection.1.3.16}% 
+\contentsline {subsection}{\numberline {1.3.17}自动启动应用(Auto Start App)}{17}{subsection.1.3.17}% 
+\contentsline {subsection}{\numberline {1.3.18}解决Skim开多个窗口问题}{19}{subsection.1.3.18}% 
+\contentsline {section}{\numberline {1.4}08月}{20}{section.1.4}% 
+\contentsline {subsection}{\numberline {1.4.1}JVM监控}{20}{subsection.1.4.1}% 
+\contentsline {subsection}{\numberline {1.4.2}can't connect to server Jenkins Publish Over SSH}{21}{subsection.1.4.2}% 
+\contentsline {subsection}{\numberline {1.4.3}MyBatis事务}{21}{subsection.1.4.3}% 
+\contentsline {subsection}{\numberline {1.4.4}MySQL事务}{21}{subsection.1.4.4}% 
+\contentsline {subsection}{\numberline {1.4.5}网络数据推送}{23}{subsection.1.4.5}% 
+\contentsline {subsection}{\numberline {1.4.6}Spring常见问题}{23}{subsection.1.4.6}% 
+\contentsline {paragraph}{cannot be delegated to target bean. Switch its visibility to package or protected.}{23}{section*.5}% 
+\contentsline {subsection}{\numberline {1.4.7}Spring Cloud}{23}{subsection.1.4.7}% 
+\contentsline {subsection}{\numberline {1.4.8}Java进程突然退出}{24}{subsection.1.4.8}% 
+\contentsline {subsection}{\numberline {1.4.9}微服务链路追踪Zipkin}{25}{subsection.1.4.9}% 
+\contentsline {subsection}{\numberline {1.4.10}Kafka基础概念}{27}{subsection.1.4.10}% 
+\contentsline {paragraph}{Rebalance}{27}{section*.6}% 
+\contentsline {paragraph}{分区(Partition)}{28}{section*.7}% 
+\contentsline {paragraph}{Producer}{28}{section*.8}% 
+\contentsline {paragraph}{Key}{29}{section*.9}% 
+\contentsline {subsection}{\numberline {1.4.11}Swagger UI使用总结}{30}{subsection.1.4.11}% 
+\contentsline {paragraph}{fetching resource list: null}{30}{section*.10}% 
+\contentsline {subsection}{\numberline {1.4.12}Intellij Idea项目*.iml文件}{31}{subsection.1.4.12}% 
+\contentsline {subsection}{\numberline {1.4.13}Gradle}{31}{subsection.1.4.13}% 
+\contentsline {paragraph}{Gradle手动离线安装}{31}{section*.11}% 
+\contentsline {paragraph}{Gradle代理}{31}{section*.12}% 
+\contentsline {subsection}{\numberline {1.4.14}Spring Bean初始化顺序}{32}{subsection.1.4.14}% 
+\contentsline {subsection}{\numberline {1.4.15}Spring加载完成后执行}{34}{subsection.1.4.15}% 
+\contentsline {subsection}{\numberline {1.4.16}Apollo配置的加载时机}{35}{subsection.1.4.16}% 
+\contentsline {subsection}{\numberline {1.4.17}Jenkins远程执行Shell}{35}{subsection.1.4.17}% 
+\contentsline {subsection}{\numberline {1.4.18}消息队列通用的消息持久化}{36}{subsection.1.4.18}% 
+\contentsline {subsection}{\numberline {1.4.19}Kibana使用心得}{37}{subsection.1.4.19}% 
+\contentsline {subsection}{\numberline {1.4.20}函数式接口之\rule {0.2em}{0pt}\rule [0.35em]{1.6em}{0.05em}\rule {0.2em}{0pt}{}Predicate}{38}{subsection.1.4.20}% 
+\contentsline {subsection}{\numberline {1.4.21}Java 8 Steam}{38}{subsection.1.4.21}% 
+\contentsline {subsection}{\numberline {1.4.22}MySQL常见操作}{39}{subsection.1.4.22}% 
+\contentsline {subsection}{\numberline {1.4.23}top命令}{39}{subsection.1.4.23}% 
+\contentsline {subsection}{\numberline {1.4.24}Grep使用小技巧}{40}{subsection.1.4.24}% 
+\contentsline {subsection}{\numberline {1.4.25}空指针异常}{40}{subsection.1.4.25}% 
+\contentsline {subsection}{\numberline {1.4.26}Kubernetes部署}{41}{subsection.1.4.26}% 
+\contentsline {subsubsection}{创建TLS证书和秘钥}{44}{section*.13}% 
+\contentsline {paragraph}{安装证书创建工具CFSSL}{44}{section*.14}% 
+\contentsline {paragraph}{生成CA证书和私钥}{46}{section*.15}% 
+\contentsline {paragraph}{创建CA根证书配置文件}{46}{section*.16}% 
+\contentsline {paragraph}{创建CA证书签名请求}{47}{section*.17}% 
+\contentsline {paragraph}{创建Kubernetes证书}{48}{section*.18}% 
+\contentsline {paragraph}{创建admin证书}{49}{section*.19}% 
+\contentsline {paragraph}{创建kube-proxy证书}{50}{section*.20}% 
+\contentsline {subsubsection}{安装kubectl命令行工具}{52}{section*.21}% 
+\contentsline {subsubsection}{创建kubeconfig文件}{52}{section*.22}% 
+\contentsline {paragraph}{创建 TLS Bootstrapping Token}{52}{section*.23}% 
+\contentsline {paragraph}{创建 kubelet bootstrapping kubeconfig 文件}{53}{section*.24}% 
+\contentsline {paragraph}{创建 kube-proxy kubeconfig 文件}{53}{section*.25}% 
+\contentsline {subsubsection}{创建高可用etcd集群}{54}{section*.26}% 
+\contentsline {paragraph}{移除旧文件}{55}{section*.27}% 
+\contentsline {paragraph}{下载二进制文件}{55}{section*.28}% 
+\contentsline {paragraph}{创建etcd证书和私钥}{56}{section*.29}% 
+\contentsline {paragraph}{创建和分发etcd的systemd unit文件}{57}{section*.30}% 
+\contentsline {paragraph}{启动etcd服务}{58}{section*.31}% 
+\contentsline {subsubsection}{部署master节点}{65}{section*.32}% 
+\contentsline {paragraph}{下载最新版本的Kubernetes二进制文件}{65}{section*.33}% 
+\contentsline {paragraph}{配置和启动 kube-apiserver}{66}{section*.34}% 
+\contentsline {subsection}{\numberline {1.4.27}创建kube-controller-manager集群}{69}{subsection.1.4.27}% 
+\contentsline {paragraph}{配置和启动kube-scheduler}{72}{section*.35}% 
+\contentsline {paragraph}{验证master节点功能}{72}{section*.36}% 
+\contentsline {subsubsection}{安装flannel网络插件}{73}{section*.37}% 
+\contentsline {paragraph}{下载分发flannel二进制文件}{74}{section*.38}% 
+\contentsline {paragraph}{安装完毕后验证}{78}{section*.39}% 
+\contentsline {subsubsection}{安装Kubernetes Dashboard插件}{79}{section*.40}% 
+\contentsline {paragraph}{通过kubectl proxy访问dashboard}{81}{section*.41}% 
+\contentsline {subsubsection}{安装calico插件}{81}{section*.42}% 
+\contentsline {subsection}{\numberline {1.4.28}Tampermonkey脚本收藏}{82}{subsection.1.4.28}% 
+\contentsline {paragraph}{ Endless Google}{82}{section*.43}% 
+\contentsline {subsection}{\numberline {1.4.29}zsh拷贝文件时通配符解析}{82}{subsection.1.4.29}% 
+\contentsline {subsection}{\numberline {1.4.30}Git慢}{83}{subsection.1.4.30}% 
+\contentsline {subsection}{\numberline {1.4.31}排他锁更新记录}{84}{subsection.1.4.31}% 
+\contentsline {subsection}{\numberline {1.4.32}MyBatis代码自动生成}{85}{subsection.1.4.32}% 
+\contentsline {subsection}{\numberline {1.4.33}参数校验}{89}{subsection.1.4.33}% 
+\contentsline {subsection}{\numberline {1.4.34}filebeat递归读取文件}{89}{subsection.1.4.34}% 
+\contentsline {subsection}{\numberline {1.4.35}Spring手动获取Bean}{90}{subsection.1.4.35}% 
+\contentsline {subsection}{\numberline {1.4.36}Jenkins利用Webhook执行自动构建}{91}{subsection.1.4.36}% 
+\contentsline {subsection}{\numberline {1.4.37}Jackson复杂类型反序列化}{91}{subsection.1.4.37}% 
+\contentsline {subsection}{\numberline {1.4.38}Swagger使用总结}{92}{subsection.1.4.38}% 
+\contentsline {paragraph}{NumberFormatException: For input string: ""}{92}{section*.44}% 
+\contentsline {paragraph}{Failed to start bean 'documentationPluginsBootstrapper'}{93}{section*.45}% 
+\contentsline {subsection}{\numberline {1.4.39}Zuul统一集成Swagger2文档}{94}{subsection.1.4.39}% 
+\contentsline {subsection}{\numberline {1.4.40}Java为什么要引入Lambda表达式}{96}{subsection.1.4.40}% 
+\contentsline {subsection}{\numberline {1.4.41}Java为什么要引入InvokeDynamic指令}{97}{subsection.1.4.41}% 
+\contentsline {section}{\numberline {1.5}07月}{97}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Intellij Idea闪退}{97}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}Bash使用Map数据结构}{98}{subsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1.5.3}macOS Mojave升级Bash到4.0版本}{100}{subsection.1.5.3}% 
+\contentsline {subsection}{\numberline {1.5.4}Websocket常见问题处理}{100}{subsection.1.5.4}% 
+\contentsline {subsection}{\numberline {1.5.5}Shell常用脚本}{102}{subsection.1.5.5}% 
+\contentsline {subsection}{\numberline {1.5.6}容器编排(Container Orchestration)方式管理Docker}{102}{subsection.1.5.6}% 
+\contentsline {subsection}{\numberline {1.5.7}Docker方式部署应用}{102}{subsection.1.5.7}% 
+\contentsline {subsection}{\numberline {1.5.8}EFK Docker部署}{105}{subsection.1.5.8}% 
+\contentsline {subsection}{\numberline {1.5.9}集成Request ID(全链路监测)}{106}{subsection.1.5.9}% 
+\contentsline {subsection}{\numberline {1.5.10}Feign传递公共请求头}{107}{subsection.1.5.10}% 
+\contentsline {subsection}{\numberline {1.5.11}Intellij Idea编译找不到符号}{109}{subsection.1.5.11}% 
+\contentsline {subsection}{\numberline {1.5.12} 微服务常见问题}{109}{subsection.1.5.12}% 
+\contentsline {paragraph}{The target server failed to respond}{109}{section*.46}% 
+\contentsline {paragraph}{feign.RetryableException: Read timed out executing GET}{110}{section*.47}% 
+\contentsline {paragraph}{Load balancer does not have available server for client：dolphin-envelope}{110}{section*.48}% 
+\contentsline {subsection}{\numberline {1.5.13}Intellij Idea循环依赖}{110}{subsection.1.5.13}% 
+\contentsline {subsection}{\numberline {1.5.14}Intellij Idea热部署}{111}{subsection.1.5.14}% 
+\contentsline {subsection}{\numberline {1.5.15}JVM内存模型(Java Memory Model)}{112}{subsection.1.5.15}% 
+\contentsline {paragraph}{原子性}{113}{section*.49}% 
+\contentsline {paragraph}{可见性}{113}{section*.50}% 
+\contentsline {paragraph}{有序性}{113}{section*.51}% 
+\contentsline {subsection}{\numberline {1.5.16}微服务组件(Microservice Component)}{114}{subsection.1.5.16}% 
+\contentsline {subsection}{\numberline {1.5.17}ThreadLocal共享认证Token}{116}{subsection.1.5.17}% 
+\contentsline {subsection}{\numberline {1.5.18}科学上网之Amazon Could篇(Fenceless Internet)}{117}{subsection.1.5.18}% 
+\contentsline {subsection}{\numberline {1.5.19}Intellij Idea常用技巧(Intellij Idea tricks and tips)}{119}{subsection.1.5.19}% 
+\contentsline {paragraph}{自动优化导入包}{119}{section*.52}% 
+\contentsline {paragraph}{创建对象}{119}{section*.53}% 
+\contentsline {paragraph}{智能提示大小写不敏感}{119}{section*.54}% 
+\contentsline {paragraph}{显示Run Dashboard}{119}{section*.55}% 
+\contentsline {subsection}{\numberline {1.5.20}Mac快捷键}{120}{subsection.1.5.20}% 
+\contentsline {subsection}{\numberline {1.5.21}youtube下载}{120}{subsection.1.5.21}% 
+\contentsline {section}{\numberline {1.6}06月}{121}{section.1.6}% 
+\contentsline {subsection}{\numberline {1.6.1}RabbitMQ Docker部署}{121}{subsection.1.6.1}% 
+\contentsline {subsection}{\numberline {1.6.2}Websocket性能测试}{122}{subsection.1.6.2}% 
+\contentsline {paragraph}{调整Nginx的worker\_connections}{124}{section*.56}% 
+\contentsline {subsection}{\numberline {1.6.3}用curl测试接口}{124}{subsection.1.6.3}% 
+\contentsline {paragraph}{GET}{125}{section*.57}% 
+\contentsline {paragraph}{POST}{125}{section*.58}% 
+\contentsline {paragraph}{PUT}{126}{section*.59}% 
+\contentsline {subsection}{\numberline {1.6.4}扫描如何排除特定类}{126}{subsection.1.6.4}% 
+\contentsline {subsection}{\numberline {1.6.5}网站启用https}{126}{subsection.1.6.5}% 
+\contentsline {paragraph}{通配符证书(Wildcard Certificate)}{128}{section*.60}% 
+\contentsline {paragraph}{证书续期(Certificate Renew)}{129}{section*.61}% 
+\contentsline {subsection}{\numberline {1.6.6}MySQL事务隔离级别与锁}{130}{subsection.1.6.6}% 
+\contentsline {subsection}{\numberline {1.6.7}垃圾回收(Garbage Collection)}{130}{subsection.1.6.7}% 
+\contentsline {subsection}{\numberline {1.6.8}JVM运行时数据区(JVM Run-time Data Areas)}{131}{subsection.1.6.8}% 
+\contentsline {subsection}{\numberline {1.6.9}JVM方法区}{133}{subsection.1.6.9}% 
+\contentsline {subsection}{\numberline {1.6.10}Docker容器与宿主机通信}{133}{subsection.1.6.10}% 
+\contentsline {subsection}{\numberline {1.6.11}Docker跨主机通信方案}{134}{subsection.1.6.11}% 
+\contentsline {paragraph}{overlay}{135}{section*.62}% 
+\contentsline {paragraph}{macvlan}{136}{section*.63}% 
+\contentsline {paragraph}{flannel}{136}{section*.64}% 
+\contentsline {paragraph}{weave}{136}{section*.65}% 
+\contentsline {paragraph}{calico}{137}{section*.66}% 
+\contentsline {paragraph}{Canal (Flannel + Calico)}{137}{section*.67}% 
+\contentsline {subsection}{\numberline {1.6.12}Git提交规范}{137}{subsection.1.6.12}% 
+\contentsline {subsection}{\numberline {1.6.13}Git常见问题}{138}{subsection.1.6.13}% 
+\contentsline {subsection}{\numberline {1.6.14}JVM的垃圾收集器有哪几种}{138}{subsection.1.6.14}% 
+\contentsline {paragraph}{年轻代收集器(Yong Generation Collector)}{138}{section*.68}% 
+\contentsline {paragraph}{老年代收集器}{139}{section*.69}% 
+\contentsline {subsection}{\numberline {1.6.15}控制反转(IoC)}{140}{subsection.1.6.15}% 
+\contentsline {paragraph}{IoC的优点}{140}{section*.70}% 
+\contentsline {subsection}{\numberline {1.6.16}Maven常见问题解决方案}{140}{subsection.1.6.16}% 
+\contentsline {paragraph}{dependencyManagement}{140}{section*.71}% 
+\contentsline {paragraph}{provided, compile, runtime, test, system}{141}{section*.72}% 
+\contentsline {paragraph}{重新下载Jar包}{141}{section*.73}% 
+\contentsline {paragraph}{查看Jar包依赖}{141}{section*.74}% 
+\contentsline {paragraph}{Intellij Idea下设置Maven路径}{142}{section*.75}% 
+\contentsline {subsection}{\numberline {1.6.17}Mac使用技巧}{143}{subsection.1.6.17}% 
+\contentsline {paragraph}{从bash切换到oh my zsh}{146}{section*.76}% 
+\contentsline {paragraph}{美化oh~my~zsh}{146}{section*.77}% 
+\contentsline {paragraph}{终端打开文件夹}{146}{section*.78}% 
+\contentsline {subsection}{\numberline {1.6.18}Apollo服务端Docker部署}{147}{subsection.1.6.18}% 
+\contentsline {paragraph}{Apollo客户端无法读取内网配置}{148}{section*.79}% 
+\contentsline {subsection}{\numberline {1.6.19}Apollo客户端使用}{149}{subsection.1.6.19}% 
+\contentsline {section}{\numberline {1.7}05月}{151}{section.1.7}% 
+\contentsline {subsection}{\numberline {1.7.1}Docker常用命令}{151}{subsection.1.7.1}% 
+\contentsline {subsection}{\numberline {1.7.2}Docker数据卷}{153}{subsection.1.7.2}% 
+\contentsline {subsection}{\numberline {1.7.3}Java中的volatile关键字}{154}{subsection.1.7.3}% 
+\contentsline {paragraph}{禁止重排序(Happens-Before Guarantee)}{154}{section*.80}% 
+\contentsline {paragraph}{volatile与原子性}{156}{section*.81}% 
+\contentsline {paragraph}{可见性(Visibility Guarantee)}{157}{section*.82}% 
+\contentsline {subsection}{\numberline {1.7.4}Fluent Bit日志写入测试}{157}{subsection.1.7.4}% 
+\contentsline {subsection}{\numberline {1.7.5}Rancher 2.x部署入门}{159}{subsection.1.7.5}% 
+\contentsline {subsection}{\numberline {1.7.6}HashMap的put操作是如何定位元素的}{160}{subsection.1.7.6}% 
+\contentsline {subsection}{\numberline {1.7.7}Mac Mojave编译OpenJDK 10}{162}{subsection.1.7.7}% 
+\contentsline {subsection}{\numberline {1.7.8}采用离线Cookie通过终端命令行下载Apple开发工具}{164}{subsection.1.7.8}% 
+\contentsline {subsection}{\numberline {1.7.9}CentOS编译OpenJDK 10}{165}{subsection.1.7.9}% 
+\contentsline {section}{\numberline {1.8}03月}{168}{section.1.8}% 
+\contentsline {subsection}{\numberline {1.8.1}DbVisualizer}{168}{subsection.1.8.1}% 
+\contentsline {part}{\@mypartnumtocformat {II}{菜单}}{169}{part.2}% 
+\ttl@stoptoc {default@1}
+\ttl@starttoc {default@2}
+\contentsline {chapter}{\numberline {2}主食}{171}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}饭}{171}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}红薯粥(Sweet Potato Congee)}{171}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}南瓜粥(规划中)}{172}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}手抓饼(规划中)}{172}{subsection.2.1.3}% 
+\contentsline {section}{\numberline {2.2}菜}{172}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}油豆腐粉丝汤}{172}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}凉拌黄瓜}{172}{subsection.2.2.2}% 
+\contentsline {part}{\@mypartnumtocformat {III}{Book}}{173}{part.3}% 
+\ttl@stoptoc {default@2}
+\ttl@starttoc {default@3}
+\contentsline {chapter}{\numberline {3}Paper}{177}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Font}{177}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}类型}{177}{subsection.3.1.1}% 
+\contentsline {section}{\numberline {3.2}纸的种类}{177}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}宣纸(Xuan Paper)}{177}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}连史纸}{178}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}美浓和纸}{178}{subsection.3.2.3}% 
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{179}{chapter*.83}% 
+\contentsline {section}{Books}{179}{section*.84}% 
+\contentsline {section}{Articles}{179}{section*.85}% 
+\contentsfinish 

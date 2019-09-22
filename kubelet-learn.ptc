@@ -1,0 +1,48 @@
+\babel@toc {english}{}
+\contentsline {part}{\@mypartnumtocformat {I}{风}}{1}{part.1}% 
+\ttl@starttoc {default@1}
+\contentsline {chapter}{\numberline {1}Kubernetes基础}{3}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Kubernetes部署}{3}{section.1.1}% 
+\contentsline {subsubsection}{创建TLS证书和秘钥}{6}{section*.2}% 
+\contentsline {paragraph}{安装证书创建工具CFSSL}{6}{section*.3}% 
+\contentsline {paragraph}{生成CA证书和私钥}{8}{section*.4}% 
+\contentsline {paragraph}{创建CA根证书配置文件}{8}{section*.5}% 
+\contentsline {paragraph}{创建CA证书签名请求}{9}{section*.6}% 
+\contentsline {paragraph}{创建Kubernetes证书}{10}{section*.7}% 
+\contentsline {paragraph}{创建admin证书}{11}{section*.8}% 
+\contentsline {paragraph}{创建kube-proxy证书}{12}{section*.9}% 
+\contentsline {subsubsection}{安装kubectl命令行工具}{14}{section*.10}% 
+\contentsline {subsubsection}{创建kubeconfig文件}{14}{section*.11}% 
+\contentsline {paragraph}{创建 TLS Bootstrapping Token}{14}{section*.12}% 
+\contentsline {paragraph}{创建 kubelet bootstrapping kubeconfig 文件}{15}{section*.13}% 
+\contentsline {paragraph}{创建 kube-proxy kubeconfig 文件}{15}{section*.14}% 
+\contentsline {subsubsection}{创建高可用etcd集群}{16}{section*.15}% 
+\contentsline {paragraph}{移除旧文件}{17}{section*.16}% 
+\contentsline {paragraph}{下载二进制文件}{17}{section*.17}% 
+\contentsline {paragraph}{创建etcd证书和私钥}{18}{section*.18}% 
+\contentsline {paragraph}{创建和分发etcd的systemd unit文件}{19}{section*.19}% 
+\contentsline {paragraph}{启动etcd服务}{20}{section*.20}% 
+\contentsline {subsubsection}{部署master节点}{27}{section*.21}% 
+\contentsline {paragraph}{下载最新版本的Kubernetes二进制文件}{27}{section*.22}% 
+\contentsline {paragraph}{配置和启动 kube-apiserver}{28}{section*.23}% 
+\contentsline {subsubsection}{创建kube-controller-manager集群}{31}{section*.24}% 
+\contentsline {paragraph}{配置和启动kube-scheduler}{34}{section*.25}% 
+\contentsline {paragraph}{验证master节点功能}{34}{section*.26}% 
+\contentsline {subsubsection}{安装flannel网络插件}{35}{section*.27}% 
+\contentsline {paragraph}{下载分发flannel二进制文件}{36}{section*.28}% 
+\contentsline {paragraph}{安装完毕后验证}{40}{section*.29}% 
+\contentsline {subsection}{\numberline {1.1.1}部署 kubelet 组件}{41}{subsection.1.1.1}% 
+\contentsline {subsubsection}{创建和分发kubelet systemd unit文件}{41}{section*.30}% 
+\contentsline {subsubsection}{启动kubelet服务}{43}{section*.31}% 
+\contentsline {subsubsection}{查看kubelet的情况}{43}{section*.32}% 
+\contentsline {subsubsection}{手动Approve Server Certificate CSR}{44}{section*.33}% 
+\contentsline {subsection}{\numberline {1.1.2}部署CoreDNS插件}{45}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}安装Kubernetes Dashboard插件}{46}{subsection.1.1.3}% 
+\contentsline {subsubsection}{通过代理访问dashboard}{47}{section*.34}% 
+\contentsline {subsubsection}{通过kube-apiserver访问Dashboard}{48}{section*.35}% 
+\contentsline {subsubsection}{Docker加入Flannel网络}{50}{section*.36}% 
+\contentsline {subsection}{\numberline {1.1.4}集群状态检查}{51}{subsection.1.1.4}% 
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{53}{chapter*.37}% 
+\contentsline {section}{Books}{53}{section*.38}% 
+\contentsline {section}{Articles}{53}{section*.39}% 
+\contentsfinish 
